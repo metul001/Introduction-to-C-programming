@@ -1,3 +1,5 @@
-gcc program1.c -o prog1\n
-prog1\n
-./prog1\n
+gcc program1.c -o prog1
+
+prog1
+
+./prog1
